@@ -1,0 +1,15 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Update update=new I18Update();
+		update.evaluate();
+		
+		Update update1=new I18Update();
+		update.evaluate();
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		boolean check=true;
+		Update update=new I18Update();
+		update.evaluate();
+		
+		Update update1=new NonI18Update();
+		update1.evaluate();
+		
+		Update u=check ? new I18Update() :new NonI18Update();
+		return new Consumer(u);
+		
+		
+	}
+
+}

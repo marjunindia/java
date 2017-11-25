@@ -1,0 +1,16 @@
+
+public class NonI18Update extends Update {
+
+	@Override
+	void evaluate() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void render() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

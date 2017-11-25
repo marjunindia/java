@@ -1,0 +1,13 @@
+
+public class Factory {
+	
+	boolean check=true;
+	
+		Consumer build(){
+			Update u=check ? new I18Update() :new NonI18Update();
+			return new Consumer(u);
+		}
+	
+	
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="House"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="Dog"/>
+<fullyQualifiedTypeName name="Car"/>
+<fullyQualifiedTypeName name="implementsinterface.HouseType"/>
+<fullyQualifiedTypeName name="implementsinterface.CarType"/>
+<fullyQualifiedTypeName name="implementsinterface.BallType"/>
+<fullyQualifiedTypeName name="implementsinterface.Movable"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="algorithmreuse.Car"/>
+<fullyQualifiedTypeName name="algorithmreuse.Data"/>
+<fullyQualifiedTypeName name="algorithmreuse.Country"/>
+<fullyQualifiedTypeName name="algorithmreuse.Measurable"/>
+<fullyQualifiedTypeName name="implementsinterface.Drawable"/>
+<fullyQualifiedTypeName name="implementsinterface.DogType"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

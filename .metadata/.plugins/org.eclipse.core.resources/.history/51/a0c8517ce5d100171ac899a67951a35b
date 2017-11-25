@@ -1,0 +1,13 @@
+
+public class Consumer {
+	boolean check=true;
+
+	
+	public Consumer(Update update) {
+		// TODO Auto-generated constructor stub
+		update.evaluate();
+		update.render();
+	}
+	
+	
+}
