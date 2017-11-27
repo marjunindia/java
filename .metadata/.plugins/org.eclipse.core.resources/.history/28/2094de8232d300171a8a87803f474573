@@ -1,0 +1,43 @@
+package com.example.arjun27.genericsadapter;
+
+import android.app.Activity;
+import android.widget.TextView;
+
+/**
+ * Created by arjun27 on 11/26/2017.
+ */
+
+public class AdoptAdapter<T extends  Animal & Adoptable> {
+
+    private Activity activity;
+    private TextView name;
+    private TextView description;
+    private TextView rating;
+
+   //private Cat t;
+
+   // private Animal n;
+
+    private  T t;
+
+    public AdoptAdapter(Activity activity, TextView name, TextView description, TextView rating) {
+        this.activity = activity;
+        this.name = name;
+        this.description = description;
+        this.rating = rating;
+    }
+
+
+    public void set(T t){
+        this.t=t;
+        updateView();
+    }
+
+    private void updateView() {
+
+        description.setText("adsdsafsfa");
+
+    }
+
+
+}

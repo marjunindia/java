@@ -2,7 +2,7 @@ package Typecasting;
 
 public class Myclass {
 	
-	Object object=new Myclass();
+	Object object=new Myclass(); 
 	
 	
 	Myclass myclass=(Myclass) object;
