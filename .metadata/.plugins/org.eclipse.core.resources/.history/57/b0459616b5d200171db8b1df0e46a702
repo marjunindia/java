@@ -1,0 +1,18 @@
+import java.util.ArrayList;
+
+public class JokeBot extends Bot {
+	
+	public static ArrayList<Joke> jokeiknow;
+
+
+	public JokeBot(ArrayList<Joke> jokeiknow) {
+		this.jokeiknow = jokeiknow;
+	}
+
+	
+	
+	
+	
+	
+	
+}

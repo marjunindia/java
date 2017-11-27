@@ -1,0 +1,8 @@
+
+public class Joke {
+	
+	private String jokesetup;
+	private String jokepunchline;
+	
+
+}

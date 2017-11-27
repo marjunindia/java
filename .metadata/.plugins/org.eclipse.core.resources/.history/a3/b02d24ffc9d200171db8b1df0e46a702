@@ -1,0 +1,17 @@
+package abstraction;
+
+public class Light extends Device {
+	
+
+	public Light() {
+
+		setDeviceName("LIGHT");
+	}
+
+	@Override
+	public void breakDevice() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

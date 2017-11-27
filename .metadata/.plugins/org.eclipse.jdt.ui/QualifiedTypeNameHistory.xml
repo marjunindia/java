@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="House"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="Dog"/>
 <fullyQualifiedTypeName name="Car"/>
 <fullyQualifiedTypeName name="implementsinterface.HouseType"/>
 <fullyQualifiedTypeName name="implementsinterface.CarType"/>
 <fullyQualifiedTypeName name="implementsinterface.BallType"/>
 <fullyQualifiedTypeName name="implementsinterface.Movable"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="algorithmreuse.Car"/>
 <fullyQualifiedTypeName name="algorithmreuse.Data"/>
 <fullyQualifiedTypeName name="algorithmreuse.Country"/>
 <fullyQualifiedTypeName name="algorithmreuse.Measurable"/>
 <fullyQualifiedTypeName name="implementsinterface.Drawable"/>
 <fullyQualifiedTypeName name="implementsinterface.DogType"/>
+<fullyQualifiedTypeName name="Consumer"/>
+<fullyQualifiedTypeName name="Factory"/>
+<fullyQualifiedTypeName name="Update"/>
+<fullyQualifiedTypeName name="I18Update"/>
+<fullyQualifiedTypeName name="NonI18Update"/>
+<fullyQualifiedTypeName name="Bot"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="Joke"/>
+<fullyQualifiedTypeName name="JokeBot"/>
+<fullyQualifiedTypeName name="ComedianBot"/>
+<fullyQualifiedTypeName name="JokeWriter"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="abstraction.Device"/>
+<fullyQualifiedTypeName name="abstraction.Fan"/>
+<fullyQualifiedTypeName name="abstraction.Light"/>
+<fullyQualifiedTypeName name="abstraction.Switch"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="abstraction.SwitchWithCallback"/>
+<fullyQualifiedTypeName name="abstraction.Switchable"/>
 </qualifiedTypeNameHistroy>

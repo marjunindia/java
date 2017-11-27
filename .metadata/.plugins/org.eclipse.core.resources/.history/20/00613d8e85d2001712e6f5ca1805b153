@@ -1,0 +1,13 @@
+
+public class Bot {
+	
+	public final static  String  creatername="Arjun";
+	
+	private String name="Robot";
+	
+	
+	
+	
+	
+
+}

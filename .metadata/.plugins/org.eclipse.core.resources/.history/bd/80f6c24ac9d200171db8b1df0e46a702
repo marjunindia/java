@@ -1,0 +1,15 @@
+package abstraction;
+
+public class Fan extends Device {
+	
+	
+	public Fan() {
+		setDeviceName("FAN");
+	}
+
+	@Override
+	public void breakDevice() {
+		
+	}
+
+}

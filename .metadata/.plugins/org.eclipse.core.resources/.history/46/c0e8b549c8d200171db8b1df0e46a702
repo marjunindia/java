@@ -1,0 +1,11 @@
+package abstraction;
+
+public abstract class Device {
+	protected String deviceName;
+	protected String ison;
+
+
+	
+	
+	
+}

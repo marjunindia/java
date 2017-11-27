@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+
+public class ComedianBot extends JokeBot{
+
+	public ComedianBot(ArrayList<Joke> jokeiknow) {
+		super(null);
+		jokeiknow=JokeWriter.getJokeList();
+		
+		// TODO Auto-generated constructor stub
+	}
+
+}

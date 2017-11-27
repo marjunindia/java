@@ -1,0 +1,17 @@
+import java.util.ArrayList;
+
+public class ComedianBot extends JokeBot{
+
+	public ComedianBot(ArrayList<Joke> jokeiknow) {
+		super(null);
+		jokeiknow=JokeWriter.getJokeList();
+		
+	}
+	
+	public void performshow(){
+		
+		talk("Good evening"+getName());
+		
+	}
+
+}

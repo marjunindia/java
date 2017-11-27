@@ -1,0 +1,13 @@
+
+public class Joke {
+	
+	private String jokesetup;
+	private String jokepunchline;
+	
+	public Joke(String jokesetup, String jokepunchline) {
+		this.jokesetup = jokesetup;
+		this.jokepunchline = jokepunchline;
+	}
+	
+
+}

@@ -1,0 +1,11 @@
+package abstraction;
+
+public class Fan extends Device {
+
+	@Override
+	public void breakDevice() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

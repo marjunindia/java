@@ -1,0 +1,12 @@
+package abstraction;
+
+public class Switch {
+	
+	
+	public void turnOnSwitchable(Switchable switchable){
+		switchable.turnOn();
+		
+	}
+	
+
+}
