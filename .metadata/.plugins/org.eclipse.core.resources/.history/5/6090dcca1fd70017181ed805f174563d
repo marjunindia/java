@@ -1,0 +1,32 @@
+package builtinfuctionalinterface;
+
+public class RunnableUse {
+	
+	public static void main(String[] args) {
+	
+	Runnable r1=new Runnable() {
+		
+		@Override
+		public void run() {
+			// TODO Auto-generated method stub
+			System.out.print("running thread 1");
+		}
+	};
+	
+		Runnable r2=new Runnable() {
+		
+		@Override
+		public void run() {
+			// TODO Auto-generated method stub
+			System.out.println("running thread 2");
+		}
+	};
+		
+	
+	new Thread(r1).start();
+	
+	new Thread(r2).start();
+
+	
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;LambdaExpressions/src/instanstingfunctionalInterface&apos;&#x0D;&#x0A;- Original project: &apos;LambdaExpressions&apos;&#x0D;&#x0A;- Destination element: &apos;LambdaExpressions/src/instanstingfunctionalInterface&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     InterfaceWithArgs.java&#x0D;&#x0A;     MainTest.java&#x0D;&#x0A;     SimpleInterface.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;instanstingfunctionalInterface" element1="/src&lt;{InterfaceWithArgs.java" element2="/src&lt;{MainTest.java" element3="/src&lt;{SimpleInterface.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1512191185935" units="3" version="1.0"/>
+</session>

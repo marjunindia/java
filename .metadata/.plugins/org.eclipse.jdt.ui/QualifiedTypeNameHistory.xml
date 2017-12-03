@@ -25,13 +25,20 @@
 <fullyQualifiedTypeName name="ComedianBot"/>
 <fullyQualifiedTypeName name="JokeWriter"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="abstraction.Device"/>
 <fullyQualifiedTypeName name="abstraction.Fan"/>
 <fullyQualifiedTypeName name="abstraction.Light"/>
 <fullyQualifiedTypeName name="abstraction.Switch"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="abstraction.SwitchWithCallback"/>
 <fullyQualifiedTypeName name="abstraction.Switchable"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="Typecasting.Myclass"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="SimpleInterface"/>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="InterfaceWithArgs"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>

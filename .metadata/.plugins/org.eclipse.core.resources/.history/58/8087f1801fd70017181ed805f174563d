@@ -1,0 +1,9 @@
+package builtinfuctionalinterface;
+
+public class RunnableUse {
+	
+	public static void main(String[] args) {
+	
+	
+	}
+}
