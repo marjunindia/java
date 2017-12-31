@@ -20,7 +20,7 @@ public class Main {
 		 */
 		
 		olive = new Kalamata();   //polymorphism
-		System.out.println(olive.name);
+		System.out.println(""+olive.name);
 		olives.add(olive);
 
 		olive = new Ligurian();

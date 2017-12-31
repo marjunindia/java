@@ -55,6 +55,8 @@ public class Scene {
 		drawables.add(new CarType("perugalathur", "tlemransport prob"));
 		drawables.add(new BallType("ball", "out of the stadium"));
 		
+		// add new of type of circle which implements drawable draw method
+		// achieve polymorphism
 		DogType dogType=new DogType("sdsd","dfdf");
 		dogType.move(10);
 		

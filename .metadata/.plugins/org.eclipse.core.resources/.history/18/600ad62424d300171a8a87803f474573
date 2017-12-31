@@ -1,9 +1,0 @@
-package Typecasting;
-
-public class Myclass {
-	
-	Object object=new Object();
-	
-	
-
-}
