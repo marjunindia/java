@@ -1,6 +1,6 @@
 package com.acme;
 
-public class Gift {
+public class Gift  implements Shipment{
 	public String customerid;
 	public String giftid;
 	public Gift(String customerid, String giftid) {
@@ -19,6 +19,15 @@ public class Gift {
 	}
 	public void setGiftid(String giftid) {
 		this.giftid = giftid;
+	}
+	@Override
+	public String getShippingAddress() {
+		// TODO Auto-generated method stub
+		return "Gift shipping address";
+	}
+	@Override
+	public String toString() {
+		return "Gift [customerid=" + customerid + ", giftid=" + giftid + "]";
 	}
 	
 

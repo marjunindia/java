@@ -1,6 +1,6 @@
 package com.acme;
 
-abstract public class Order {
+abstract public class Order implements Shipment {
 	
 	public String customerid;
 	public String orderiid;
@@ -25,7 +25,13 @@ abstract public class Order {
 	}
 	
 	public String getShippingAddress(){
-		return "ship via standard freight";
+		String shippiing = "ship via standard freight";
+		if("coyote".equals(customerid)){
+			shippiing="Shipping via expediiated freight";
+		}
+		
+		
+		return shippiing;
 	}
 	
 	abstract public String getSpecialShippingAddress();
